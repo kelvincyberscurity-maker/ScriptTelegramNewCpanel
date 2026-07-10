@@ -58,7 +58,6 @@ Jalankan bot: python main.py
 Bot siap melayani permintaan!
 
 🤝 COLLABORATION CREDITS
-🤝 COLLABORATION CREDITS
 Chief Architect: Kelvin Cyber
 Intelligence Core: Gemini AI
 © 2026 KELVIN CYBER X GEMINI. ALL RIGHTS RESERVED.
