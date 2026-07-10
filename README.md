@@ -111,7 +111,7 @@ Keuntungan pendekatan ini:
 
 ---
 
-# ⚡ Quick Start
+# ⚡ Quick Start Via Termux/Vps
 
 ### 1. Clone Repository
 
@@ -136,7 +136,7 @@ pip install -r requirements.txt
 Buka file:
 
 ```text
-config.py
+nano config.py
 ```
 
 Masukkan token Telegram:
