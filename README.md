@@ -116,7 +116,7 @@ Keuntungan pendekatan ini:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/ScriptTelegramNewCpanel.git
+git clone https://github.com/kelvincyberscurity-maker/ScriptTelegramNewCpanel.git
 ```
 
 ### 2. Masuk ke Folder
